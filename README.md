@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning for Stochastic Vehicle Routing under Weather-Driven Demand Uncertainty
 
-An end-to-end trainable vehicle routing agent built in PyTorch. The agent uses a **Graph Attention Network (GAT)** to encode customer and vehicle states, and a **REINFORCE policy gradient** with a learned critic baseline to construct routing tours under stochastic, weather-correlated customer demand -- where the true demand at each stop is only revealed upon arrival.
+An end-to-end trainable vehicle routing agent built in PyTorch for the academic project for team 32 . The agent uses a **Graph Attention Network (GAT)** to encode customer and vehicle states, and a **REINFORCE policy gradient** with a learned critic baseline to construct routing tours under stochastic, weather-correlated customer demand -- where the true demand at each stop is only revealed upon arrival.
 
 ---
 
